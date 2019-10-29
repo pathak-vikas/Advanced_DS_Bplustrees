@@ -1,0 +1,2 @@
+Initialize(4)
+Insert(1190,27.77)
